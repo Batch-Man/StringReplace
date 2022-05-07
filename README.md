@@ -1,4 +1,4 @@
-# StringReplace 1.0
+# StringReplace 
 **Description:**
 To find a string in a file and then replace it by another one.
 It supports all Unicode characters, except:
